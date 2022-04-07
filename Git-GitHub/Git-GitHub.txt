@@ -1,0 +1,18 @@
+Principais funções utilizadas no Git aprendidas:
+
+clonar - puxar o repositorio do github para o git
+comando: git clone (inserir a url copiada no github)
+
+adicionar as alterações e pastas no repositorio do git
+comando: git add . ou git add -A
+
+consultar o status do repositorio
+comando: git status
+
+subir as alterações realizadas
+comando: git commit -m "informar quais alterações foram realizadas entre aspas"
+
+subir as alterações para o github
+comando: git push origin main
+
+após finalizado, atualizar a pagina da web no github

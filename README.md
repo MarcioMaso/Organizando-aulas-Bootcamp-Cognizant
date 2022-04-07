@@ -1,2 +1,5 @@
-# Organizando-aulas-Bootcamp-Cognizant
-Organizando os estudos do bootcamp cognizant
+# Organizando as Aulas do Bootcamp Cognizant
+
+Já cursados dentro do bootcamp
+
+Git / GitHub - OK
